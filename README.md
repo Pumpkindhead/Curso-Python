@@ -8,3 +8,10 @@ Finalmente este bootcamp a presentado un reto que estoy tomando con entusiasmo y
 # Proyecto 2 longuitud de una frase e idetificación de coordenadas a partir de 2 variables.
 Reflexión y detalle que me dejo el realizar estos programas.
 Para realizar ambos programas me apoye en el material que se fue brindando durante todo el mes, nuevamente el ir realizando los retos semanales y practicando con los videos fue de gran ayuda para poder realizar este par de programas, en este caso lo más complicado fue establecer la lógica del programa debido al uso de condicionales y que tuviera sentido el funcionamiento para obtener el resultado deseado. 
+
+
+# Proyecto 3 Simulación de la máquina de Galton.
+Reflexión y detalle que me dejo el realizar este programa.
+Para realizar este proyecto primero tuve que informarme un poco sobre el funcionamiento de una máquina de Galton, para poder entener la lógica de una manera informatica para posterior traducir el funcionamiento al lenguaje de programación, especialmente la función que se utilizó para simular la máquina me presento ciertos problemas sin embargo verificando nuevamente todo el contenido de apoyo pude establecer cual debía ser el funcionamiento de la función para posterior graficar y almacenar los resultados y poder mostrarlos en un histograma.
+
+
